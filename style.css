@@ -1,0 +1,95 @@
+/*selector{
+	Property; value;
+}*/
+
+*{
+		
+}
+
+
+.div1 {
+	display: inline-block;
+	border: solid #7C5300;
+	justify-content: space-between;
+}
+
+.col{
+	background-color: grey;
+	border: 2px solid black;
+}
+
+
+html{
+	
+}
+
+
+
+body{
+	background-image: url(https://img.freepik.com/free-vector/bright-background-with-dots_1055-3132.jpg?size=338&ext=jpg);
+	font-family: 'Shadows Into Light', cursive;
+
+}
+
+
+
+h1 {
+	color: #7C5300;
+	line-height: 45px;
+}
+
+
+
+p {
+	color: #7C5300;
+	font-size: 180%;
+	line-height: 70px;
+	font-weight: 550;
+}
+
+
+
+ul{
+	
+
+}
+
+
+img {
+	width: 590px;
+	height: 390px;
+	transition: all 1s;	
+	
+}
+
+img:hover{
+
+		transform: scale(1.1);
+
+}
+
+
+
+.olist{
+	border: solid #7C5300 5px;
+	color: #7C5300; font-weight: bold;
+	font-size: 180%;
+	text-align: left;
+	border-width: 4px;
+	
+}
+
+
+
+
+a{
+	font-size: 220%;
+	color: green;
+}
+
+
+
+
+
+
+
